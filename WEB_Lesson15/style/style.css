@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+html{
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    background-color: #F0F6FE;
+}
+
+body{
+    background-color: #fff;
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+h1{
+    display: flex;
+    font-size: 36px;
+    line-height: 40px;
+    color: #4049F8;
+    justify-content: center;
+}
+
+.company{
+    font-size: 16px;
+    line-height: 24px;
+    color: #4049F8;
+}
